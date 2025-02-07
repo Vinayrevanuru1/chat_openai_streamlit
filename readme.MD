@@ -1,6 +1,6 @@
 
 
-# Stream Lit project that  uses openai assistant to generate  responses to user input  , this can also handle pdfs
+# Streamlit project that  uses openai assistant to generate  responses to user input  , this can also handle pdfs
 
 
 
@@ -8,3 +8,7 @@
 
 
 ## pip install -r requirements.txt
+
+
+
+streamlit run app.py
