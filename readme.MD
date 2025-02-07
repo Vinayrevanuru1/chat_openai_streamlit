@@ -4,7 +4,7 @@
 
 
 
-# use python 3.11
+## use python 3.11 ( older  versions should work too)
 
 
-# pip install -r requirements.txt
+## pip install -r requirements.txt
